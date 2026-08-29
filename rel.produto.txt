@@ -1,0 +1,3 @@
+RELATÓRIO DE PRODUTOS
+
+Este arquivo representa o relatório de produtos do sistema.
